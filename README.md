@@ -4,9 +4,9 @@
 Пример маячка:
 
 #include <a.h>
-BEGIN
- on(13);
- delay(1000);
+BEGIN<br>
+ on(13);<br>
+ delay(1000);<br>
  off(13);
  delay(1000);
 END
