@@ -5,11 +5,16 @@
 
 #include <a.h>
 
-BEGIN<br>
- on(13);<br>
- delay(1000);<br>
- off(13);<br>
- delay(1000);<br>
+BEGIN
+
+  on(13);
+  
+  delay(1000);
+  
+  off(13);
+  
+  delay(1000);
+
 END
 
 Не сложно, правда ли? Все, что пока затруднит работу начинающему, спрятано в макро BEGIN и END.
@@ -18,8 +23,8 @@ END
 
 BEGIN
 
- say("Hello!");
- 
+  say("Hello!");
+
 END
 
 
