@@ -32,7 +32,7 @@ END
 
 Полный список функцийсмотрите  в примере FullListOfCommands
 
-Установка библиотеки:
+<b>Установка библиотеки</b>
 
 Подключите библиотеку в ардуино стандартным способом:
 1. Скачайте проект на свой компьютер.
@@ -40,4 +40,4 @@ END
 3. Переименуйте папку в Ah
 4. Перезапустите Arduino IDE
 
-For more info see ArduinoMaster.ru (http://ArduinoMaster.ru)
+For more info see <b>ArduinoMaster.ru</b> (http://ArduinoMaster.ru)
