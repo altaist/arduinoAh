@@ -33,10 +33,11 @@ END
 Полный список функцийсмотрите  в примере FullListOfCommands
 
 Установка библиотеки:
+
 Подключите библиотеку в ардуино стандартным способом:
 1. Скачайте проект на свой компьютер.
 2. Скопируйте папку master в директорию libraries вашей папки ардуино (по умолчанию папка Arduino находится в Докуметах).
 3. Переименуйте папку в Ah
 4. Перезапустите Arduino IDE
 
-More info on the ArduinoMaster.ru (http://ArduinoMaster.ru)
+For more info see ArduinoMaster.ru (http://ArduinoMaster.ru)
